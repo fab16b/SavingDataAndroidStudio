@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeyValue</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="saved_button_press_count_key">TimesPressed</string>
+</resources>
